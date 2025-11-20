@@ -11,9 +11,8 @@
 | 3 | Return Rates Analysis | Dashboard and analytical exploration of product return trends, return reasons, loss prevention opportunities, and operational improvement insights. |
 | 4 | Report-Based Analytics Project | Written report summarizing key insights, trends, and recommendations using structured data and business analysis techniques. |
 | 5 | Business Analytics Project 3 | Advanced analytics project examining conversion funnels, retention metrics, cohort behavior, and customer lifecycle trends. |
-| 6 | Building Financial Models (Sprint 3) | Financial modeling project constructing revenue, expense, and profit forecasts using scenarios, assumptions, and spreadsheet-based calculations. |
-| 7 | Job Search Strategy | Career development project outlining resume optimization, job search planning, professional branding, and long-term career goals. |
-| 8 | Shopify App Analysis | Power BI project analyzing Shopify App Store data, including app trends, review patterns, developer responsiveness, and app success factors. |
+| 6 | Job Search Strategy | Career development project outlining resume optimization, job search planning, professional branding, and long-term career goals. |
+| 7 | Shopify App Analysis | Power BI project analyzing Shopify App Store data, including app trends, review patterns, developer responsiveness, and app success factors. |
 
 ---
 
