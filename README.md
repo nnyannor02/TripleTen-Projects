@@ -13,6 +13,7 @@
 | 5 | Business Analytics Project 3 | Advanced Excel analytics project examining conversion funnels, cohort behavior, retention metrics, and customer lifecycle trends. |
 | 6 | Job Search Strategy | Career development project focusing on resume refinement, job search structure, professional branding, and long-term career goals. |
 | 7 | Shopify App Analysis (Power BI) | Power BI dashboard analyzing Shopify App Store data, including app trends, review patterns, developer responsiveness, and performance factors. |
+| 8 |  Zomato Sales Analysis (Power BI) | A Power BI dashboard analyzing Zomato’s restaurant, order, cuisine, and customer data to uncover revenue trends, top-performing restaurants, cuisine preferences, and seasonal demand patterns. Includes KPIs, interactive slicers, visual insights, and a full executive summary.  |
 
 Each project folder includes:
 - Source files (Excel, Power BI, PDFs)
