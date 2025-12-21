@@ -14,6 +14,7 @@
 | 6 | Job Search Strategy | Career development project focusing on resume refinement, job search structure, professional branding, and long-term career goals. |
 | 7 | Shopify App Analysis (Power BI) | Power BI dashboard analyzing Shopify App Store data, including app trends, review patterns, developer responsiveness, and performance factors. |
 | 8 |  Zomato Sales Analysis (Power BI) | A Power BI dashboard analyzing Zomato’s restaurant, order, cuisine, and customer data to uncover revenue trends, top-performing restaurants, cuisine preferences, and seasonal demand patterns. Includes KPIs, interactive slicers, visual insights, and a full executive summary.  |
+| 9 | Internal Request Intake Automation (Zapier) | Automated internal request intake workflow using Google Forms, Zapier, and Google Sheets. Form submissions are captured in real time and logged into a structured tracking spreadsheet. Includes debugging of trigger caching, manual field mapping, and live data synchronization issues. |
 
 Each project folder includes:
 - Source files (Excel, Power BI, PDFs)
